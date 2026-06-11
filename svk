@@ -1,0 +1,19 @@
+# Clone the repository
+git clone <repository-url>
+
+# Go to the repository folder
+cd <repository-name>
+
+# Make your changes to files
+
+# Check changes
+git status
+
+# Add changes
+git add .
+
+# Create a commit
+git commit -m "Updated project files"
+
+# Push to GitHub
+git push origin main
